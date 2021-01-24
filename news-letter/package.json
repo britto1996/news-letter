@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com/britto1996/news-letter.git"
   },
   "author": "btm",
   "license": "ISC",
